@@ -1,0 +1,4 @@
+.gh-cli/
+gh.zip
+gh-auth.out
+gh-auth.err
